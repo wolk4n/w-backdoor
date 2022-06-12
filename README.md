@@ -8,6 +8,9 @@ Program .php uzantılı bir backdoor oluşturarak sunucuya sızmanızı sağlar.
 
 `python w-backdoor.py`
 
+`3`
+<img src="https://github.com/wolk4n/w-backdoor/blob/main/img/setup.png">
+
 ## Menu
 <img src="https://github.com/wolk4n/w-backdoor/blob/main/img/menu.png">
 
