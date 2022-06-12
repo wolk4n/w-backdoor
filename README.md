@@ -10,3 +10,4 @@ Program .php uzantılı bir backdoor oluşturarak sunucuya sızmanızı sağlar.
 
 
 ### Backdoor Oluşturma
+<img src="https://github.com/wolk4n/w-backdoor/blob/main/img/generate.png">
