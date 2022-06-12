@@ -1,5 +1,5 @@
 # W-Backdoor 
-Program herhangi bir port işlemi olmadan .php uzantılı bir backdoor oluşturarak sunucuya sızmanızı sağlar. Oluşturduğunuz bakcdooru sunucuya yükledikten sonra kolaylıkla bağlanıp sunucuya sızabilirsiniz.
+Program hiçbir bir port işlemi gerektirmeden .php uzantılı bir backdoor oluşturarak sunucuya sızmanızı sağlar. Oluşturduğunuz bakcdooru sunucuya yükledikten sonra kolaylıkla bağlanıp sunucuya sızabilirsiniz.
 
 ## Kurulum
 `git clone https://github.com/wol4n/w-backdoor`
