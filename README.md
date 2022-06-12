@@ -11,9 +11,11 @@ Program .php uzantılı bir backdoor oluşturarak sunucuya sızmanızı sağlar.
 ## Menu
 <img src="https://github.com/wolk4n/w-backdoor/blob/main/img/menu.png">
 
+## Yardım Menüsü
+<img src="https://github.com/wolk4n/w-backdoor/blob/main/img/help.png">
+
 ### Backdoor Oluşturma
 <img src="https://github.com/wolk4n/w-backdoor/blob/main/img/generate.png">
-
 
 ### Backdoor Bağlantı Kurma
 <img src="https://github.com/wolk4n/w-backdoor/blob/main/img/connect.png">
