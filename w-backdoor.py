@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 import os
-from colorama import Font, Style
 import time
 
 menu = """
@@ -37,7 +36,8 @@ while True:
     
     elif (choice == '2'):
         url = input("Url: ")
-        os.system("weevely {}".format(url))
+        passwd = input("Password: ")
+        os.system("weevely {} {}".format(url,passwd))
 
     elif (choice == '3'):
         time.sleep(4)
