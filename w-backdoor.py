@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import os
+from colorama import Font, Style
 import time
 
 menu = """
